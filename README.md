@@ -1,8 +1,8 @@
 # # Git Finder
 
-### Github: 
+### Github: https://github.com/micha2791/Git-Finder
 
-### URL: 
+### URL: https://micha2791.github.io/Git-Finder/
 
 
 ## Description
